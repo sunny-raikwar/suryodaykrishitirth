@@ -8,7 +8,7 @@ Krishitirth is a project for the farmers , through this farmers can get the info
 * Embbed Educational video
 * Weather forecast
 * Current market trends
-* product specific information retrieval (for information about pesticdes etc)
+* product specific information retrieval (for information about pesticides etc)
 
 ###NonFunctional Requirement
-* Subtitles in different regional language
+* Subtitles in different regional language (specially hindi and marathi)
